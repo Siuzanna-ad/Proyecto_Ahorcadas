@@ -1,4 +1,4 @@
-# PROYECTO 1: JUEGOS ClÁSICOS - GRUPO 1 - EL AHORCADO 🎭
+# PROYECTO 1: JUEGOS CLÁSICOS - GRUPO 1 - EL AHORCADO 🎭
 
 Este proyecto es un juego del **Ahorcado en Python**, ambientado en el terror.  
 Ha sido desarrollado en equipo como práctica de programación y uso de estructuras básicas en Python.
